@@ -1,16 +1,21 @@
-## Hi there 👋
+# Marco Túlio 👋
 
-<!--
-**MarcoTulio2511/MarcoTulio2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer · UI/UX · Front-End**
 
-Here are some ideas to get you started:
+I'm a Web Developer focused on creating modern, responsive and accessible digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with web development and digital projects at **CINTESP.Br / UFU**.
+
+### Stack
+
+HTML · CSS · JavaScript · React · Vite · Git · Figma · WordPress
+
+### Currently
+
+🔭 Developing web projects at CINTESP.Br  
+🎨 Exploring UI/UX and digital products  
+📚 Continuously learning and improving my craft
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/marco-t%C3%BAlio-rodrigues-19962020a) · [Portfolio](https://myportfolio-ruddy-sigma.vercel.app/)
