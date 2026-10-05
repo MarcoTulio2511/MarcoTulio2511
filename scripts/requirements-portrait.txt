@@ -1,0 +1,7 @@
+# Only needed locally, once, when you change your photo. The daily
+# GitHub Actions workflow never installs this file — it only needs
+# requirements.txt (requests + beautifulsoup4) to refresh the heatmap.
+pillow
+numpy
+opencv-python-headless
+rembg
